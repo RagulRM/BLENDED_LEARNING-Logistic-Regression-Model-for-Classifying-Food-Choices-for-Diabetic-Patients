@@ -19,7 +19,7 @@ To implement a logistic regression model to classify food items for diabetic pat
 8. Train LogisticRegression with specified hyperparameters and evaluate the model using metrics and a confusion matrix plot. 
 
 ## Program:
-```
+```python
 /*
 Program to implement Logistic Regression for classifying food choices based on nutritional information.
 Developed by: Ragul R
